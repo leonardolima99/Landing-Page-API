@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_page_lists",
+  "info": {
+    "name": "list-item",
+    "icon": "list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

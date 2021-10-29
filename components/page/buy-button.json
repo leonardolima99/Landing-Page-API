@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_page_buy_buttons",
+  "info": {
+    "name": "buyButton",
+    "icon": "shopping-cart",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {}
+}

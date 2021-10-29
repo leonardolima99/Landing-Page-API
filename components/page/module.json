@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_modules",
+  "info": {
+    "name": "module",
+    "icon": "clone"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
