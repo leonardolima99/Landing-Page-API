@@ -1,9 +1,8 @@
 {
   "collectionName": "components_page_section_teches",
   "info": {
-    "name": "SectionTech",
-    "icon": "qrcode",
-    "description": ""
+    "name": "sectionTech",
+    "icon": "toolbox"
   },
   "options": {},
   "attributes": {
@@ -11,10 +10,10 @@
       "type": "string",
       "required": true
     },
-    "Techs": {
+    "techIcons": {
       "type": "component",
       "repeatable": true,
-      "component": "page.tech",
+      "component": "page.tech-icons",
       "required": true,
       "max": 10,
       "min": 5

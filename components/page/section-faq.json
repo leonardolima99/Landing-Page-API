@@ -1,9 +1,8 @@
 {
   "collectionName": "components_page_section_faqs",
   "info": {
-    "name": "SectionFAQ",
-    "icon": "question",
-    "description": ""
+    "name": "sectionFaq",
+    "icon": "question-circle"
   },
   "options": {},
   "attributes": {
@@ -14,7 +13,7 @@
     "questions": {
       "type": "component",
       "repeatable": true,
-      "component": "page.question",
+      "component": "page.questions",
       "required": true,
       "min": 2
     }

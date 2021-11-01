@@ -1,9 +1,8 @@
 {
   "collectionName": "components_page_section_concepts",
   "info": {
-    "name": "SectionConcepts",
-    "icon": "list-ul",
-    "description": ""
+    "name": "sectionConcepts",
+    "icon": "align-justify"
   },
   "options": {},
   "attributes": {
@@ -11,11 +10,10 @@
       "type": "string",
       "required": true
     },
-    "list": {
+    "concepts": {
       "type": "component",
       "repeatable": true,
-      "component": "page.list",
-      "required": true
+      "component": "page.concepts"
     }
   }
 }

@@ -1,20 +1,19 @@
 {
-  "collectionName": "components_page_teches",
+  "collectionName": "components_page_tech_icons",
   "info": {
-    "name": "Tech",
-    "icon": "code"
+    "name": "techIcons",
+    "icon": "tools"
   },
   "options": {},
   "attributes": {
-    "image": {
+    "icon": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
         "images"
       ],
       "plugin": "upload",
-      "required": true,
-      "pluginOptions": {}
+      "required": true
     },
     "title": {
       "type": "string",

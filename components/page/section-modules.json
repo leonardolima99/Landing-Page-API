@@ -1,9 +1,8 @@
 {
   "collectionName": "components_page_section_modules",
   "info": {
-    "name": "SectionModules",
-    "icon": "layer-group",
-    "description": ""
+    "name": "sectionModules",
+    "icon": "atlas"
   },
   "options": {},
   "attributes": {
@@ -14,7 +13,9 @@
     "modules": {
       "type": "component",
       "repeatable": true,
-      "component": "page.module"
+      "component": "page.modules",
+      "required": true,
+      "min": 2
     }
   }
 }

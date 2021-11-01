@@ -1,8 +1,8 @@
 {
   "collectionName": "components_page_pricing_boxes",
   "info": {
-    "name": "PricingBox",
-    "icon": "shopping-bag",
+    "name": "pricingBox",
+    "icon": "dollar-sign",
     "description": ""
   },
   "options": {},
@@ -16,12 +16,14 @@
       "type": "integer",
       "required": true
     },
-    "priceInstallments": {
+    "priceInstallment": {
       "type": "integer",
       "required": true
     },
     "benefits": {
-      "type": "richtext",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.benefits",
       "required": true
     },
     "button": {

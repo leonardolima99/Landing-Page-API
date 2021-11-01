@@ -1,14 +1,13 @@
 {
   "collectionName": "components_page_questions",
   "info": {
-    "name": "question",
-    "icon": "question-circle",
-    "description": ""
+    "name": "questions",
+    "icon": "question"
   },
   "options": {},
   "attributes": {
     "question": {
-      "type": "text",
+      "type": "string",
       "required": true
     },
     "answer": {

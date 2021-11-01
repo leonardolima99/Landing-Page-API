@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_benefits",
+  "info": {
+    "name": "benefits",
+    "icon": "money-check"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

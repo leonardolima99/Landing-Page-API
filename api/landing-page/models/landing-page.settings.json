@@ -25,62 +25,53 @@
     "header": {
       "type": "component",
       "repeatable": false,
-      "component": "page.header",
-      "required": true
+      "component": "page.header"
     },
-    "SectionAboutProject": {
+    "sectionAboutProject": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-about-project",
-      "required": true
+      "component": "page.section-about-project"
     },
-    "SectionTech": {
+    "sectionTech": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-tech",
-      "required": true
+      "component": "page.section-tech"
     },
-    "SectionConcepts": {
+    "sectionConcepts": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-concepts",
-      "required": true
+      "component": "page.section-concepts"
     },
-    "SectionModules": {
+    "sectionModules": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-modules",
       "required": true
     },
-    "SectionAgenda": {
+    "sectionAgenda": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-agenda",
-      "required": true
+      "component": "page.section-agenda"
     },
-    "PricingBox": {
+    "pricingBox": {
       "type": "component",
       "repeatable": false,
-      "component": "page.pricing-box",
-      "required": true
+      "component": "page.pricing-box"
     },
-    "SectionAboutUs": {
+    "sectionAboutUs": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-about-us",
-      "required": true
+      "component": "page.section-about-us"
     },
-    "SectionReviews": {
+    "sectionReviews": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-reviews",
-      "required": true
+      "component": "page.section-reviews"
     },
-    "SectionFaq": {
+    "sectionFaq": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-faq",
-      "required": true
+      "component": "page.section-faq"
     }
   }
 }

@@ -1,13 +1,13 @@
 {
-  "collectionName": "components_page_lists",
+  "collectionName": "components_page_concepts",
   "info": {
-    "name": "list-item",
-    "icon": "list",
+    "name": "concepts",
+    "icon": "align-center",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "item": {
+    "title": {
       "type": "string",
       "required": true
     }
