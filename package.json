@@ -1,8 +1,8 @@
 {
-  "name": "reactavancado-api",
+  "name": "landing-page-api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "API da landing page do curso React Avançado.",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -27,7 +27,7 @@
     "strapi-utils": "3.6.8"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Leonardo Lima Coelho"
   },
   "strapi": {
     "uuid": "81258dcd-f00d-419f-96f6-f183fb7e1222"
